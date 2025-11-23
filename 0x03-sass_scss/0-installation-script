@@ -1,0 +1,11 @@
+SASS Installation Steps for Windows:
+
+1. Downloaded Node.js LTS version from nodejs.org
+2. Ran the Windows installer (.msi) with default settings
+3. Verified Node.js installation: node --version (showed v20.x.x)
+4. Verified npm installation: npm --version (showed 10.x.x)
+5. Installed SASS globally: npm install -g sass
+6. Verified SASS installation: sass --version (showed 1.77.4)
+7. Tested compilation by creating test.scss and running: sass test.scss test.css
+
+Installation successful and ready for SASS/SCSS development.
